@@ -156,6 +156,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         src = src.replace(commentRegex, "")
       }
 
+      // pulled from discord as a way to ignore Gamemaster comments
+      src = src.replace(/\|\|\|+.*?\|\|\|+/gms, "")
+      
       // pre-transform blockquotes
       if (opts.callouts) {
         if (src instanceof Buffer) {
