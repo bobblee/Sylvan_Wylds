@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Map.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Map"
-            }
-          },
-          {
-            "id": "80bff72dc1f4b4d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Map.md",
                 "mode": "source",
                 "source": false
@@ -49,8 +21,7 @@
               "title": "Map"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Map - Sylvan Wylds.md",
+    "index.md",
     "Map.md",
+    "Map - Sylvan Wylds.md",
     "Upgrade.md",
     "Chronology.md",
     "z_assets/SylvanWylds.png",
@@ -220,7 +192,6 @@
     "SylvanWylds_geoJSON.json",
     "//SylvanWylds_geoJSON.json",
     "z_templates",
-    "index.md",
     "z_assets",
     "Upgrades.md",
     "category-folder/Some note.md",
