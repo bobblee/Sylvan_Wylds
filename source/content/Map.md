@@ -1,1 +1,1 @@
-[[SylvanWylds.png]]
+![[SylvanWylds.png]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map - Sylvan Wylds.md",
+                "file": "Map.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Map - Sylvan Wylds"
+              "title": "Map"
             }
           },
           {
@@ -211,8 +211,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Map.md",
     "Map - Sylvan Wylds.md",
+    "Map.md",
     "Upgrade.md",
     "Chronology.md",
     "z_assets/SylvanWylds.png",
