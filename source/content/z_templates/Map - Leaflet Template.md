@@ -1,10 +1,11 @@
-````
 ---
-map_height_y: 2048  
-map_width_x: 1642  
-scale_pixels: 268  
-scale_pixels_range: 25  
-mapCalc1: 0  
+title: Map - Leaflet Template
+draft: true
+mapCalc1: 0.09328358208955223
+map_height_y: 2048
+map_width_x: 1642
+scale_pixels: 268
+scale_pixels_range: 25
 ---
 
 > [!NOTE]- Quick Calculator  
@@ -15,8 +16,6 @@ mapCalc1: 0
 > How Many Pixels In Scale: `INPUT[number:scale_pixels]`  
 > How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
 > Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
-
-
 
 ```leaflet  
 id: MapCalcExample ### Must be unique with no spaces  
@@ -35,4 +34,3 @@ scale: 0.09328358208955223 ### Real units/px (resolution) of your map
 recenter: false  
 darkmode: false ### marker
 ```
-````

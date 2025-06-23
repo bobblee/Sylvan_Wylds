@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronology.md",
-                "mode": "preview",
+                "file": "z_templates/Map - Leaflet Template.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chronology"
+              "title": "Map - Leaflet Template"
             }
           }
         ],
@@ -211,12 +211,12 @@
   },
   "active": "34807799df323d87",
   "lastOpenFiles": [
+    "Chronology.md",
     "Map - Sylvan Wylds.md",
     "Upgrade.md",
     "z_templates/Map - Leaflet Template.md",
     "z_templates",
     "index.md",
-    "Chronology.md",
     "z_assets/SylvanWylds.png",
     "z_assets",
     "Upgrades.md",
