@@ -155,7 +155,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
         src = src.replace(commentRegex, "")
       }
-
+src = src.replace(/\=\=\=+.*?\=\=\=+/gms, "")
       // pre-transform blockquotes
       if (opts.callouts) {
         if (src instanceof Buffer) {
