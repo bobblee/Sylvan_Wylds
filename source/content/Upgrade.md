@@ -1,8 +1,6 @@
 ---
 title: Town Upgrades
-draft: "false"
 ---
-
 # General
 ## Town Hall
 
