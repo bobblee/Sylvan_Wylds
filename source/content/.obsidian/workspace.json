@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map.md",
+                "file": "Chronology/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map"
+              "title": "index"
             }
           }
         ]
@@ -182,11 +182,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "index.md",
     "Map.md",
+    "Chronology",
+    "index.md",
     "Map - Sylvan Wylds.md",
     "Upgrade.md",
-    "Chronology.md",
+    "Chronology/index.md",
     "z_assets/SylvanWylds.png",
     "z_templates/Map - Leaflet Template.md",
     "SylvanWylds_geoJSON.json",
