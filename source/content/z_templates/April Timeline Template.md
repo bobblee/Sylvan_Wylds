@@ -1,11 +1,14 @@
 ---
-> aat-render-enabled: false # Enables this note to be rendered in a timeline
-timelines: [Timeline, GM] # This note should be rendered in the timeline with the name "timeline" or "event"
+aat-render-enabled: false
+timelines:
+  - Timeline
+  - GM
 fc-display-name: EventName 1
 fc-calendar: Main
 fc-date: 1491-01-11
 fc-end: 1491-01-12
 fc-category: Event Category 1
+draft: true
 ---
 
 %% The first picture will be displayed in the timeline %%
