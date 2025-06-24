@@ -1,7 +1,14 @@
 ---
+title: Event 2
+draft: false
+tags:
+  - Player2
+  - Player3
+  - Player4
 aat-render-enabled: true
 timelines:
   - GM
+  - Timeline
 fc-display-name: EventName 2
 fc-calendar: Main
 fc-date: 1491-01-12
@@ -14,4 +21,10 @@ fc-category: Event Category 1
 
 be fisplayed in the timeline %%
 
-Test event 2
+Detail Text :  
+slfakf aslkf lskf asd. idaril adie ads aeioksl.
+
+|||  
+GM Details Area :  
+Gm Details go here  
+|||

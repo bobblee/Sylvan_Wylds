@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dates/GM Render.md",
-                "mode": "source",
-                "source": false
+                "file": "Dates/Timeline Render.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "GM Render"
+              "title": "Timeline Render"
             }
           }
         ],
@@ -211,13 +211,13 @@
   },
   "active": "e21fefda8d65a34e",
   "lastOpenFiles": [
-    "Dates/Timeline Render.md",
     "Dates/Event 2.md",
+    "Dates/Timeline Render.md",
+    "Dates/GM Render.md",
+    "z_templates/April Timeline Template.md",
     "Dates/Event 1.md",
     "Dates/Chronology.md",
-    "z_templates/April Timeline Template.md",
     "z_templates/Map - Leaflet Template.md",
-    "Dates/GM Render.md",
     "Map.md",
     "Dates",
     "index.md",
