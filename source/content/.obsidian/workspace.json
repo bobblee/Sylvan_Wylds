@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dates/Timeline Render.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Timeline Render"
+              "title": "index"
             }
           }
         ],
@@ -211,18 +211,18 @@
   },
   "active": "e21fefda8d65a34e",
   "lastOpenFiles": [
+    "Upgrade.md",
+    "Map.md",
+    "Map - Sylvan Wylds.md",
     "Dates/Event 2.md",
-    "Dates/Timeline Render.md",
     "Dates/GM Render.md",
+    "Dates/Timeline Render.md",
     "z_templates/April Timeline Template.md",
     "Dates/Event 1.md",
     "Dates/Chronology.md",
     "z_templates/Map - Leaflet Template.md",
-    "Map.md",
     "Dates",
     "index.md",
-    "Map - Sylvan Wylds.md",
-    "Upgrade.md",
     "z_assets/SylvanWylds.png",
     "SylvanWylds_geoJSON.json",
     "//SylvanWylds_geoJSON.json",
