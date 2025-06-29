@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Factions/Builders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Builders"
+            }
+          },
+          {
+            "id": "852fe25ac3e93bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upgrade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Upgrade"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,27 +195,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "852fe25ac3e93bf9",
   "lastOpenFiles": [
+    "Map.md",
+    "2025-06-28.md",
+    "Map - Sylvan Wylds.md",
+    "z_assets/SylvanWylds.png",
+    "Groups/Tower of Might.md",
+    "Factions/Builders.md",
+    "Groups",
     "Factions/Magitech.md",
     "Factions/Congress of Knowledge.md",
     "Dates/_Capital Refounding.md",
-    "Factions",
-    "index.md",
     "Dates/_Verdant Explosion.md",
     "Dates/Chronology.md",
     "Dates/GM Render.md",
     "Dates/Timeline Render.md",
-    "2025-06-28.md",
+    "index.md",
+    "Factions",
     "1491-01-12.md",
     "Upgrade.md",
-    "Map - Sylvan Wylds.md",
-    "Map.md",
     "Encumbrance.md",
     "z_templates/April Timeline Template.md",
     "z_templates/Map - Leaflet Template.md",
     "Dates",
-    "z_assets/SylvanWylds.png",
     "SylvanWylds_geoJSON.json",
     "//SylvanWylds_geoJSON.json",
     "z_templates",

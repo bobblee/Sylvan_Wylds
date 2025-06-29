@@ -1,5 +1,7 @@
 ---
 title: Chronology
+tags:
+  - Setting
 ---
 - **10 days = 1 Week** (called a _Span_)
 - **5 Spans = 1 Month** (called a _Mark_)

@@ -2,9 +2,7 @@
 title: Capital Refounding
 draft: false
 tags:
-  - Player2
-  - Player3
-  - Player4
+  - Setting
 aat-render-enabled: true
 timelines:
   - GM
