@@ -1,7 +1,7 @@
 {
-  "dateDisplayFormat": "{year}/{month}/{day}",
-  "dateParserGroupPriority": "year,month,day",
-  "dateParserRegex": "(?<year>-?[0-9]*)-(?<month>-?[0-9]*)-(?<day>-?[0-9]*)",
+  "dateDisplayFormat": "Cycle {Cycle} | M {Moons} | P {Phases} | Days {Days}",
+  "dateParserGroupPriority": "Cycle,Moons,Phases,Days",
+  "dateParserRegex": "(?<Cycle>\\d{4})[\\/\\s]*?(?<Moons>\\d{2})[\\/\\s]*?(?<Phases>\\d{2})[\\/\\s]*?(?<Days>\\d{2})",
   "eventRenderToggleKey": "aat-render-enabled",
   "inlineEventEndOfBodyMarker": "%%aat-event-end-of-body%%",
   "markdownBlockTagsToFindSeparator": ",",
@@ -17,14 +17,14 @@
   "lookForCalendariumSpanEvents": true,
   "lookForInlineEventsInNotes": true,
   "lookForTagsForTimeline": false,
-  "stylizeDateInline": false,
+  "stylizeDateInline": true,
   "bodyFontSize": -1,
   "dateFontSize": -1,
   "titleFontSize": -1,
   "dateTokenConfiguration": [
     {
-      "minLeght": 4,
-      "name": "year",
+      "minLeght": 2,
+      "name": "Cycle",
       "type": "NUMBER",
       "displayWhenZero": true,
       "formatting": [],
@@ -32,7 +32,7 @@
     },
     {
       "minLeght": 2,
-      "name": "month",
+      "name": "Moons",
       "type": "NUMBER",
       "displayWhenZero": true,
       "formatting": [],
@@ -40,7 +40,15 @@
     },
     {
       "minLeght": 2,
-      "name": "day",
+      "name": "Phases",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    },
+    {
+      "minLeght": 2,
+      "name": "Days",
       "type": "NUMBER",
       "displayWhenZero": true,
       "formatting": [],
