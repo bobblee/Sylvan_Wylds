@@ -37,16 +37,16 @@ Backup boat is arriving shortly to help supply the frontier town. It is best whe
 	- 2 Ambushes on land
 	- Boat is sunk and run partially along the bank of the river
 		- identifiable as claw marks on the hull, from the outside
-Aquatic Ambush : 
+**Aquatic Ambush** : 
 Small group of Water Elementals are waiting for the ship. By getting there early the party can get the drop on the Elementals.
 - (T1) MINOR FIRE ELEMENTAL (Reskinned as Water Elemental)
 
-Ambush 1 : 
+**Ambush 1** : 
 A grove of Creeping Vines is between the river and the town. It attacks the supplies on the way back to Town, focusing on people with Magic and any any supplies focusing on magic.
 * (T1) SYLVAN SOLDIER
 * (T1) TANGLE BRAMBLE SWARM
 
-Ambush 2 : 
+**Ambush 2** : 
 Creature burst from underground, with a large person made of trees on its back.
 - (T1) ACID BURROWER
 - (T1)DEEPROOT DEFENDER
