@@ -1,0 +1,58 @@
+{
+  "dateDisplayFormat": "Cycle {Cycle} | M {Moons} | P {Phases} | Days {Days}",
+  "dateParserGroupPriority": "Cycle,Moons,Phases,Days",
+  "dateParserRegex": "(?<Cycle>\\d{4})[\\/\\s]*?(?<Moons>\\d{2})[\\/\\s]*?(?<Phases>\\d{2})[\\/\\s]*?(?<Days>\\d{2})",
+  "eventRenderToggleKey": "aat-render-enabled",
+  "inlineEventEndOfBodyMarker": "%%aat-event-end-of-body%%",
+  "markdownBlockTagsToFindSeparator": ",",
+  "metadataKeyEventBodyOverride": "aat-event-body",
+  "metadataKeyEventEndDate": "fc-end",
+  "metadataKeyEventPictureOverride": "aat-event-picture",
+  "metadataKeyEventStartDate": "fc-date",
+  "metadataKeyEventTimelineTag": "timelines",
+  "metadataKeyEventTitleOverride": "fc-display-name",
+  "noteInlineEventKey": "aat-inline-event",
+  "ignoreLineCommentToken": "aat-ignore-line",
+  "applyAdditonalConditionFormatting": true,
+  "lookForCalendariumSpanEvents": true,
+  "lookForInlineEventsInNotes": true,
+  "lookForTagsForTimeline": false,
+  "stylizeDateInline": true,
+  "bodyFontSize": -1,
+  "dateFontSize": -1,
+  "titleFontSize": -1,
+  "dateTokenConfiguration": [
+    {
+      "minLeght": 2,
+      "name": "Cycle",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    },
+    {
+      "minLeght": 2,
+      "name": "Moons",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    },
+    {
+      "minLeght": 2,
+      "name": "Phases",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    },
+    {
+      "minLeght": 2,
+      "name": "Days",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    }
+  ]
+}
